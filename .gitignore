@@ -3,7 +3,10 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 
-/[Aa]ssets/Documentation/
+/[Aa]ssets/Documentation/Volume2/
+/[Aa]ssets/Documentation/Volume3/
+/[Aa]ssets/Documentation/Volume4/
+/[Aa]ssets/Documentation/Volume5/
 .vsconfig
 .utmp/
 /[Ll]ibrary/
